@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Triplay Quest.sln"
+    "dotnet.defaultSolution": "triplay-quest.sln"
 }
