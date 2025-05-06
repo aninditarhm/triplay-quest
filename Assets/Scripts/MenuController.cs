@@ -7,4 +7,8 @@ public class MenuController : MonoBehaviour
     {
         SceneManager.LoadScene("Play");
     }
+    public void ExitToExitScene()
+    {
+        SceneManager.LoadScene("Exit");
+    }
 }
