@@ -8,6 +8,11 @@ public class MenuController : MonoBehaviour
         SceneManager.LoadScene("Play");
     }
 
+    public void TampilkanCredit()
+    {
+        SceneManager.LoadScene("CreditAdinda");
+    }
+
     public void ExitToExitScene()
     {
         SceneManager.LoadScene("Exit");
