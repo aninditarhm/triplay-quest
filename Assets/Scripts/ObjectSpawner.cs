@@ -1,30 +1,58 @@
+using System.Collections;  // Pastikan menggunakan IEnumerator
 using UnityEngine;
 
 public class ObjectSpawner : MonoBehaviour
 {
-    public GameObject[] jawaObjects;
-    public GameObject[] sumatraObjects;
-    public float spawnRate = 1f;
+    public GameObject[] jawaObjects;   // Array untuk item Jawa
+    public GameObject[] sumatraObjects;  // Array untuk item Sumatra
+    public float spawnRate = 1f;        // Waktu antar spawn objek
+    private bool isObjectFalling = false;  // Mengatur apakah ada objek yang sedang jatuh
 
     void Start()
     {
-        InvokeRepeating("SpawnObject", 1f, spawnRate);
+        // Mulai coroutine untuk spawn objek
+        StartCoroutine(SpawnObject());
     }
 
-    void SpawnObject()
+    // Coroutine untuk spawn objek satu per satu
+    IEnumerator SpawnObject()
     {
-        GameObject selectedObject;
-
-        if (Random.Range(0, 2) == 0)
+        while (true)
         {
-            selectedObject = jawaObjects[Random.Range(0, jawaObjects.Length)];
-        }
-        else
-        {
-            selectedObject = sumatraObjects[Random.Range(0, sumatraObjects.Length)];
-        }
+            // Tunggu hingga objek sebelumnya sampai ke tong
+            if (!isObjectFalling)
+            {
+                GameObject selectedObject;
 
-        Vector3 spawnPosition = new Vector3(Random.Range(-7f, 7f), 6f, 0); // Posisi acak pada sumbu X dan Y
-        Instantiate(selectedObject, spawnPosition, Quaternion.identity);
+                // Pilih objek secara acak (Jawa atau Sumatra)
+                if (Random.Range(0, 2) == 0)
+                {
+                    // Pilih objek Jawa secara acak
+                    selectedObject = jawaObjects[Random.Range(0, jawaObjects.Length)];
+                }
+                else
+                {
+                    // Pilih objek Sumatra secara acak
+                    selectedObject = sumatraObjects[Random.Range(0, sumatraObjects.Length)];
+                }
+
+                // Tentukan posisi spawn di tengah atas layar
+                Vector3 spawnPosition = new Vector3(0f, 6f, 0f);  // Posisi X = 0 (tengah), Y = 6 (atas layar)
+
+                // Spawn objek
+                GameObject newObject = Instantiate(selectedObject, spawnPosition, Quaternion.identity);
+                newObject.GetComponent<FallingObject>().category = selectedObject.CompareTag("Jawa") ? "Jawa" : "Sumatra";
+
+                // Set isObjectFalling ke true agar tidak spawn objek baru sebelum objek sebelumnya selesai
+                isObjectFalling = true;
+
+                // Tunggu sampai objek jatuh ke tong dan selesai
+                yield return new WaitUntil(() => newObject == null);  // Tunggu hingga objek dihapus
+                isObjectFalling = false;  // Set kembali isObjectFalling ke false untuk spawn berikutnya
+            }
+
+            // Menunggu waktu spawn berikutnya
+            yield return new WaitForSeconds(spawnRate);
+        }
     }
 }
