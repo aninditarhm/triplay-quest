@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 6c92faa2ffe8b8848b61d910aca1b5c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4688648454899819999
+    second: sumatra(tari piring)_0
+  - first:
+      213: 7044066093592949347
+    second: sumatra(tari piring)_1
+  - first:
+      213: 4444129252928991929
+    second: sumatra(tari piring)_2
+  - first:
+      213: 3315499525937970050
+    second: sumatra(tari piring)_3
+  - first:
+      213: -7306758239840664162
+    second: sumatra(tari piring)_4
+  - first:
+      213: 5399060075997165652
+    second: sumatra(tari piring)_5
+  - first:
+      213: 3463241561207152486
+    second: sumatra(tari piring)_6
+  - first:
+      213: -6722875793123049970
+    second: sumatra(tari piring)_7
+  - first:
+      213: -4542578330987047280
+    second: sumatra(tari piring)_8
+  - first:
+      213: -3961488711423484073
+    second: sumatra(tari piring)_9
+  - first:
+      213: -463929826417635456
+    second: sumatra(tari piring)_10
+  - first:
+      213: 8024881474182899840
+    second: sumatra(tari piring)_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sumatra(tari piring)_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 384
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5ecfe9dec611140800000000000000
+      internalID: 4688648454899819999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(tari piring)_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 398
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3623bf28acc81c160800000000000000
+      internalID: 7044066093592949347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(tari piring)_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 416
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b231c07208bcad30800000000000000
+      internalID: 4444129252928991929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(tari piring)_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 422
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b3288a045030e20800000000000000
+      internalID: 3315499525937970050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(tari piring)_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 424
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9583aef71e299a90800000000000000
+      internalID: -7306758239840664162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(tari piring)_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 419
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458fdce98805dea40800000000000000
+      internalID: 5399060075997165652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(tari piring)_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 411
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f1f13d9d7ef0030800000000000000
+      internalID: 3463241561207152486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(tari piring)_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 399
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ef3d1e51c83b2a0800000000000000
+      internalID: -6722875793123049970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(tari piring)_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 360
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0965129531585f0c0800000000000000
+      internalID: -4542578330987047280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(tari piring)_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 382
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f12ed7107f509c0800000000000000
+      internalID: -3961488711423484073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(tari piring)_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 358
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f0ba7e74acf89f0800000000000000
+      internalID: -463929826417635456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(tari piring)_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 38
+        width: 193
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088e841ee2b1e5f60800000000000000
+      internalID: 8024881474182899840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sumatra(tari piring)_0: 4688648454899819999
+      sumatra(tari piring)_1: 7044066093592949347
+      sumatra(tari piring)_10: -463929826417635456
+      sumatra(tari piring)_11: 8024881474182899840
+      sumatra(tari piring)_2: 4444129252928991929
+      sumatra(tari piring)_3: 3315499525937970050
+      sumatra(tari piring)_4: -7306758239840664162
+      sumatra(tari piring)_5: 5399060075997165652
+      sumatra(tari piring)_6: 3463241561207152486
+      sumatra(tari piring)_7: -6722875793123049970
+      sumatra(tari piring)_8: -4542578330987047280
+      sumatra(tari piring)_9: -3961488711423484073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 83ad427206752dc4b99f3cac78939c26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7878314867241736783
+    second: jawa(soto lamongan)_0
+  - first:
+      213: 6126396223973804224
+    second: jawa(soto lamongan)_1
+  - first:
+      213: 3462774484699923266
+    second: jawa(soto lamongan)_2
+  - first:
+      213: -4719288898057764393
+    second: jawa(soto lamongan)_3
+  - first:
+      213: -7105731314936198015
+    second: jawa(soto lamongan)_4
+  - first:
+      213: -7036148066908236644
+    second: jawa(soto lamongan)_5
+  - first:
+      213: -5861675830518607527
+    second: jawa(soto lamongan)_6
+  - first:
+      213: -2569895533552565983
+    second: jawa(soto lamongan)_7
+  - first:
+      213: 5488293400281248071
+    second: jawa(soto lamongan)_8
+  - first:
+      213: 6165777194019067394
+    second: jawa(soto lamongan)_9
+  - first:
+      213: 1944175436290168613
+    second: jawa(soto lamongan)_10
+  - first:
+      213: 9212242568254623954
+    second: jawa(soto lamongan)_11
+  - first:
+      213: -5069765707662725934
+    second: jawa(soto lamongan)_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 144
+        width: 484
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a5f9271a5655d60800000000000000
+      internalID: 7878314867241736783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 121
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8c04b18e4550550800000000000000
+      internalID: 6126396223973804224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 115
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24343d91c0f3e0030800000000000000
+      internalID: 3462774484699923266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 104
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d182d640c7b18eb0800000000000000
+      internalID: -4719288898057764393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ccbdf440f536d90800000000000000
+      internalID: -7105731314936198015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 80
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9412ecbc949a5e90800000000000000
+      internalID: -7036148066908236644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 68
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951127d73e427aea0800000000000000
+      internalID: -5861675830518607527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 73
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1218cbcc0a5e55cd0800000000000000
+      internalID: -2569895533552565983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 77
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74172e2f4c55a2c40800000000000000
+      internalID: 5488293400281248071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 100
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20616b5b0bd319550800000000000000
+      internalID: 6165777194019067394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 64
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5279d1532491bfa10800000000000000
+      internalID: 1944175436290168613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 63
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d09c89aec578df70800000000000000
+      internalID: 9212242568254623954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(soto lamongan)_12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 68
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc6e4c13f294a9b0800000000000000
+      internalID: -5069765707662725934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jawa(soto lamongan)_0: 7878314867241736783
+      jawa(soto lamongan)_1: 6126396223973804224
+      jawa(soto lamongan)_10: 1944175436290168613
+      jawa(soto lamongan)_11: 9212242568254623954
+      jawa(soto lamongan)_12: -5069765707662725934
+      jawa(soto lamongan)_2: 3462774484699923266
+      jawa(soto lamongan)_3: -4719288898057764393
+      jawa(soto lamongan)_4: -7105731314936198015
+      jawa(soto lamongan)_5: -7036148066908236644
+      jawa(soto lamongan)_6: -5861675830518607527
+      jawa(soto lamongan)_7: -2569895533552565983
+      jawa(soto lamongan)_8: 5488293400281248071
+      jawa(soto lamongan)_9: 6165777194019067394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

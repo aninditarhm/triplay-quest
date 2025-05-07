@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 278198cc247a5c44aa4f3b5b3c99b082
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -307857794970332808
+    second: sumatra(bika ambon)_0
+  - first:
+      213: 6173949969911742569
+    second: sumatra(bika ambon)_1
+  - first:
+      213: -6116090941053437782
+    second: sumatra(bika ambon)_2
+  - first:
+      213: 7867158009461841260
+    second: sumatra(bika ambon)_3
+  - first:
+      213: 5012300327582838817
+    second: sumatra(bika ambon)_4
+  - first:
+      213: 8451890569616083452
+    second: sumatra(bika ambon)_5
+  - first:
+      213: 2228103275236856140
+    second: sumatra(bika ambon)_6
+  - first:
+      213: 854095254365234210
+    second: sumatra(bika ambon)_7
+  - first:
+      213: 934455559318049087
+    second: sumatra(bika ambon)_8
+  - first:
+      213: -2459802607518227623
+    second: sumatra(bika ambon)_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sumatra(bika ambon)_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 119
+        width: 450
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871557177f44abbf0800000000000000
+      internalID: -307857794970332808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(bika ambon)_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 108
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9608f9169c64ea550800000000000000
+      internalID: 6173949969911742569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(bika ambon)_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 94
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8768c81b74f1ba0800000000000000
+      internalID: -6116090941053437782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(bika ambon)_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 79
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d97d11782cd2d60800000000000000
+      internalID: 7867158009461841260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(bika ambon)_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 68
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120362577944f8540800000000000000
+      internalID: 5012300327582838817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(bika ambon)_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 58
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9c07a61b52b4570800000000000000
+      internalID: 8451890569616083452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(bika ambon)_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 56
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c419063bf10dbee10800000000000000
+      internalID: 2228103275236856140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(bika ambon)_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 58
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22469c0db1b5adb00800000000000000
+      internalID: 854095254365234210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(bika ambon)_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 65
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f319a87516ad7fc00800000000000000
+      internalID: 934455559318049087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumatra(bika ambon)_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 72
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953eb41af860dddd0800000000000000
+      internalID: -2459802607518227623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sumatra(bika ambon)_0: -307857794970332808
+      sumatra(bika ambon)_1: 6173949969911742569
+      sumatra(bika ambon)_2: -6116090941053437782
+      sumatra(bika ambon)_3: 7867158009461841260
+      sumatra(bika ambon)_4: 5012300327582838817
+      sumatra(bika ambon)_5: 8451890569616083452
+      sumatra(bika ambon)_6: 2228103275236856140
+      sumatra(bika ambon)_7: 854095254365234210
+      sumatra(bika ambon)_8: 934455559318049087
+      sumatra(bika ambon)_9: -2459802607518227623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

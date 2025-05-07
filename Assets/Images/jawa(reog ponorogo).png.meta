@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: ca9c6a4478fe6124481b9d4da98cd384
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1546923964132140598
+    second: jawa(reog ponorogo)_0
+  - first:
+      213: 4697518743189974485
+    second: jawa(reog ponorogo)_1
+  - first:
+      213: -4470891747483126318
+    second: jawa(reog ponorogo)_2
+  - first:
+      213: -6049163357114369318
+    second: jawa(reog ponorogo)_3
+  - first:
+      213: 1085151188909393268
+    second: jawa(reog ponorogo)_4
+  - first:
+      213: -6609824119087679770
+    second: jawa(reog ponorogo)_5
+  - first:
+      213: 4438031532175527991
+    second: jawa(reog ponorogo)_6
+  - first:
+      213: 5713457067715706373
+    second: jawa(reog ponorogo)_7
+  - first:
+      213: 2203129633670411309
+    second: jawa(reog ponorogo)_8
+  - first:
+      213: 9086444819679436018
+    second: jawa(reog ponorogo)_9
+  - first:
+      213: -2763705684229336123
+    second: jawa(reog ponorogo)_10
+  - first:
+      213: -3543740935888930960
+    second: jawa(reog ponorogo)_11
+  - first:
+      213: 3558802509113331842
+    second: jawa(reog ponorogo)_12
+  - first:
+      213: 212807766750797976
+    second: jawa(reog ponorogo)_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 415
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636a2a04627c77510800000000000000
+      internalID: 1546923964132140598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 420
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde39d8860f03140800000000000000
+      internalID: 4697518743189974485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 444
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5fa0ab4a334f1c0800000000000000
+      internalID: -4470891747483126318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 450
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada73eef9fd0d0ca0800000000000000
+      internalID: -6049163357114369318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 448
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4758986c14b3f0f00800000000000000
+      internalID: 1085151188909393268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 443
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e638f9ebff2544a0800000000000000
+      internalID: -6609824119087679770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 433
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7301e413a2e079d30800000000000000
+      internalID: 4438031532175527991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 364
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50eb3a09ee64a4f40800000000000000
+      internalID: 5713457067715706373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 397
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24bf09aab6139e10800000000000000
+      internalID: 2203129633670411309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 17
+        width: 306
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc5e24eb69891e70800000000000000
+      internalID: 9086444819679436018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 416
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c358cba25855a9d0800000000000000
+      internalID: -2763705684229336123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 388
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0777454f46a12dec0800000000000000
+      internalID: -3543740935888930960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 372
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2801875d608636130800000000000000
+      internalID: 3558802509113331842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jawa(reog ponorogo)_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 282
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89020ae498b04f200800000000000000
+      internalID: 212807766750797976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jawa(reog ponorogo)_0: 1546923964132140598
+      jawa(reog ponorogo)_1: 4697518743189974485
+      jawa(reog ponorogo)_10: -2763705684229336123
+      jawa(reog ponorogo)_11: -3543740935888930960
+      jawa(reog ponorogo)_12: 3558802509113331842
+      jawa(reog ponorogo)_13: 212807766750797976
+      jawa(reog ponorogo)_2: -4470891747483126318
+      jawa(reog ponorogo)_3: -6049163357114369318
+      jawa(reog ponorogo)_4: 1085151188909393268
+      jawa(reog ponorogo)_5: -6609824119087679770
+      jawa(reog ponorogo)_6: 4438031532175527991
+      jawa(reog ponorogo)_7: 5713457067715706373
+      jawa(reog ponorogo)_8: 2203129633670411309
+      jawa(reog ponorogo)_9: 9086444819679436018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

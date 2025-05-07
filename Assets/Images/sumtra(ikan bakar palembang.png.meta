@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: cebf4bafe18f89e47834a81cfa68189c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5829447745206312908
+    second: sumtra(ikan bakar palembang_0
+  - first:
+      213: 7602080684469122940
+    second: sumtra(ikan bakar palembang_1
+  - first:
+      213: 5109375894719422161
+    second: sumtra(ikan bakar palembang_2
+  - first:
+      213: -236351737824380006
+    second: sumtra(ikan bakar palembang_3
+  - first:
+      213: 9130451461272687061
+    second: sumtra(ikan bakar palembang_4
+  - first:
+      213: 7481729598247774643
+    second: sumtra(ikan bakar palembang_5
+  - first:
+      213: 4585107675786694231
+    second: sumtra(ikan bakar palembang_6
+  - first:
+      213: -3853894276196947690
+    second: sumtra(ikan bakar palembang_7
+  - first:
+      213: -1522384218034189484
+    second: sumtra(ikan bakar palembang_8
+  - first:
+      213: 2946437031192658855
+    second: sumtra(ikan bakar palembang_9
+  - first:
+      213: -1141454628191986299
+    second: sumtra(ikan bakar palembang_10
+  - first:
+      213: 4174164677703024050
+    second: sumtra(ikan bakar palembang_11
+  - first:
+      213: -4515730637530665333
+    second: sumtra(ikan bakar palembang_12
+  - first:
+      213: 5786360825931579630
+    second: sumtra(ikan bakar palembang_13
+  - first:
+      213: -3190991166473842543
+    second: sumtra(ikan bakar palembang_14
+  - first:
+      213: -6115485588990629457
+    second: sumtra(ikan bakar palembang_15
+  - first:
+      213: 3674146608516074815
+    second: sumtra(ikan bakar palembang_16
+  - first:
+      213: -7722809080096381030
+    second: sumtra(ikan bakar palembang_17
+  - first:
+      213: 7932590033921687917
+    second: sumtra(ikan bakar palembang_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 116
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf59b9a6db56e050800000000000000
+      internalID: 5829447745206312908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 148
+        width: 345
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77f3afda14008960800000000000000
+      internalID: 7602080684469122940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 110
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ded1bc3e4628e640800000000000000
+      internalID: 5109375894719422161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 102
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b7ee0c85f48bcf0800000000000000
+      internalID: -236351737824380006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 92
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1da149a31e5be70800000000000000
+      internalID: 9130451461272687061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9a5110e6174d760800000000000000
+      internalID: 7481729598247774643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 82
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ece20632391af30800000000000000
+      internalID: 4585107675786694231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 84
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619ae591397348ac0800000000000000
+      internalID: -3853894276196947690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 88
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b4960ae976fdae0800000000000000
+      internalID: -1522384218034189484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 99
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a38b457ed8d3e820800000000000000
+      internalID: 2946437031192658855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 58
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d1467301db820f0800000000000000
+      internalID: -1141454628191986299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 41
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdb870a8ac9de930800000000000000
+      internalID: 4174164677703024050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 35
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ee2a819e6e451c0800000000000000
+      internalID: -4515730637530665333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 30
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee043e383884d4050800000000000000
+      internalID: 5786360825931579630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 25
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190dae0d07257b3d0800000000000000
+      internalID: -3190991166473842543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 26
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9613f024e612ba0800000000000000
+      internalID: -6115485588990629457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 32
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d8e4dbfd03df230800000000000000
+      internalID: 3674146608516074815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 38
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97a1b01f0213d490800000000000000
+      internalID: -7722809080096381030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sumtra(ikan bakar palembang_18
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 44
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61c4b07b98361e60800000000000000
+      internalID: 7932590033921687917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sumtra(ikan bakar palembang_0: 5829447745206312908
+      sumtra(ikan bakar palembang_1: 7602080684469122940
+      sumtra(ikan bakar palembang_10: -1141454628191986299
+      sumtra(ikan bakar palembang_11: 4174164677703024050
+      sumtra(ikan bakar palembang_12: -4515730637530665333
+      sumtra(ikan bakar palembang_13: 5786360825931579630
+      sumtra(ikan bakar palembang_14: -3190991166473842543
+      sumtra(ikan bakar palembang_15: -6115485588990629457
+      sumtra(ikan bakar palembang_16: 3674146608516074815
+      sumtra(ikan bakar palembang_17: -7722809080096381030
+      sumtra(ikan bakar palembang_18: 7932590033921687917
+      sumtra(ikan bakar palembang_2: 5109375894719422161
+      sumtra(ikan bakar palembang_3: -236351737824380006
+      sumtra(ikan bakar palembang_4: 9130451461272687061
+      sumtra(ikan bakar palembang_5: 7481729598247774643
+      sumtra(ikan bakar palembang_6: 4585107675786694231
+      sumtra(ikan bakar palembang_7: -3853894276196947690
+      sumtra(ikan bakar palembang_8: -1522384218034189484
+      sumtra(ikan bakar palembang_9: 2946437031192658855
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
