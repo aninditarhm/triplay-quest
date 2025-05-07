@@ -35,9 +35,6 @@ TextureImporter:
   - first:
       213: -463929826417635456
     second: sumatra(tari piring)_10
-  - first:
-      213: 8024881474182899840
-    second: sumatra(tari piring)_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -136,10 +133,10 @@ TextureImporter:
       name: sumatra(tari piring)_0
       rect:
         serializedVersion: 2
-        x: 63
-        y: 384
-        width: 40
-        height: 40
+        x: 169
+        y: 854
+        width: 83
+        height: 101
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,10 +155,10 @@ TextureImporter:
       name: sumatra(tari piring)_1
       rect:
         serializedVersion: 2
-        x: 101
-        y: 398
-        width: 55
-        height: 45
+        x: 262
+        y: 885
+        width: 74
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,10 +177,10 @@ TextureImporter:
       name: sumatra(tari piring)_2
       rect:
         serializedVersion: 2
-        x: 157
-        y: 416
-        width: 36
-        height: 34
+        x: 340
+        y: 904
+        width: 70
+        height: 75
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,10 +199,10 @@ TextureImporter:
       name: sumatra(tari piring)_3
       rect:
         serializedVersion: 2
-        x: 193
-        y: 422
-        width: 40
-        height: 44
+        x: 413
+        y: 918
+        width: 48
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,10 +221,10 @@ TextureImporter:
       name: sumatra(tari piring)_4
       rect:
         serializedVersion: 2
-        x: 253
-        y: 424
-        width: 43
-        height: 39
+        x: 497
+        y: 927
+        width: 93
+        height: 81
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,10 +243,10 @@ TextureImporter:
       name: sumatra(tari piring)_5
       rect:
         serializedVersion: 2
-        x: 293
-        y: 419
-        width: 37
-        height: 33
+        x: 580
+        y: 925
+        width: 63
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,10 +265,10 @@ TextureImporter:
       name: sumatra(tari piring)_6
       rect:
         serializedVersion: 2
-        x: 331
-        y: 411
-        width: 46
-        height: 40
+        x: 630
+        y: 919
+        width: 85
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,10 +287,10 @@ TextureImporter:
       name: sumatra(tari piring)_7
       rect:
         serializedVersion: 2
-        x: 367
-        y: 399
-        width: 38
-        height: 34
+        x: 703
+        y: 905
+        width: 72
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,10 +309,10 @@ TextureImporter:
       name: sumatra(tari piring)_8
       rect:
         serializedVersion: 2
-        x: 24
-        y: 360
-        width: 44
-        height: 50
+        x: 752
+        y: 882
+        width: 96
+        height: 74
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,10 +331,10 @@ TextureImporter:
       name: sumatra(tari piring)_9
       rect:
         serializedVersion: 2
-        x: 398
-        y: 382
-        width: 47
-        height: 38
+        x: 825
+        y: 838
+        width: 121
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,10 +353,10 @@ TextureImporter:
       name: sumatra(tari piring)_10
       rect:
         serializedVersion: 2
-        x: 429
-        y: 358
-        width: 59
-        height: 40
+        x: 335
+        y: 83
+        width: 417
+        height: 732
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,28 +367,6 @@ TextureImporter:
       bones: []
       spriteID: 08f0ba7e74acf89f0800000000000000
       internalID: -463929826417635456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sumatra(tari piring)_11
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 38
-        width: 193
-        height: 337
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 088e841ee2b1e5f60800000000000000
-      internalID: 8024881474182899840
       vertices: []
       indices: 
       edges: []
@@ -413,7 +388,6 @@ TextureImporter:
       sumatra(tari piring)_0: 4688648454899819999
       sumatra(tari piring)_1: 7044066093592949347
       sumatra(tari piring)_10: -463929826417635456
-      sumatra(tari piring)_11: 8024881474182899840
       sumatra(tari piring)_2: 4444129252928991929
       sumatra(tari piring)_3: 3315499525937970050
       sumatra(tari piring)_4: -7306758239840664162
