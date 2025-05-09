@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes Pulau/peta.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes Pulau/Sumatera.unity
+    guid: f1e193360d86b8e46810d6f788710832
+  - enabled: 1
+    path: Assets/Scenes Pulau/Kalimantan.unity
+    guid: 3b7bd06e3fe9dc247af7f11c6a24b288
+  - enabled: 1
+    path: Assets/Scenes Pulau/Jawa.unity
+    guid: ad59f878982ad9045857fba3014b7440
+  - enabled: 1
+    path: Assets/Scenes Pulau/Bali.unity
+    guid: 6c3168b66f6e5374b82c08720c4eb0cb
+  - enabled: 1
+    path: Assets/Scenes Pulau/Sulawesi.unity
+    guid: 2c99d6872703f7b49840511a43fdec45
+  - enabled: 1
+    path: Assets/Scenes Pulau/Nusa Tenggara.unity
+    guid: 5f1ae991119cace4790a926fb3dacbc0
+  - enabled: 1
+    path: Assets/Scenes Pulau/Papua.unity
+    guid: 338c789dd4239644c944581f70578861
+  - enabled: 1
+    path: Assets/Scenes Pulau/Maluku.unity
+    guid: 0448a0ba95a066840ace4041bf1dadec
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Denpasar.unity
+    guid: 900f142f48474a748b4c3e3d3608e9ef
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Banten.unity
+    guid: e6706549278e25b45b7463714298fc05
+  - enabled: 1
+    path: Assets/Scenes Provinsi/DIY.unity
+    guid: 83c21ee48a47baa48ab615c0546057be
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Jakarta.unity
+    guid: f7c0a41f81a235c428c560aace204932
+  - enabled: 1
+    path: Assets/Scenes Provinsi/JawaBarat.unity
+    guid: 19c2240ea5f0732418df1f8e712cb5d6
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Jateng.unity
+    guid: 98f7a957fd77ff64a9df1da176bd98b7
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Jatim.unity
+    guid: f3d5bbe9aa9e71d40a2c25ea5be468a2
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Kalbar.unity
+    guid: 1ba5b217900598649a8b26bfeb02a309
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Kalsel.unity
+    guid: b640a35c7984d824bacc126882606f87
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Kalteng.unity
+    guid: 43c673603ea007a4697abf32a5615df3
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Kaltim.unity
+    guid: 38ca496c5d901994987a3c42c7d994de
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Kalut.unity
+    guid: e7307e995e7da9945bfed7ff47d8309d
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Malukuu.unity
+    guid: b6b7c893ab5a5784d88d07afd5d4c219
+  - enabled: 1
+    path: Assets/Scenes Provinsi/MalukuUtara.unity
+    guid: 2f76e9cb8adb758478b51dd7fbbc05ba
+  - enabled: 1
+    path: Assets/Scenes Provinsi/ntt.unity
+    guid: 0e6119ef05f642846aa5a047bf7b6467
+  - enabled: 1
+    path: Assets/Scenes Provinsi/ntb.unity
+    guid: 677e2b4c15ce39c45a6f17e543bafabb
+  - enabled: 1
+    path: Assets/Scenes Provinsi/PapuaTengah.unity
+    guid: 361d682b983b18c40a059ce6e52fe2aa
+  - enabled: 1
+    path: Assets/Scenes Provinsi/PapuaBarat.unity
+    guid: 82612ee61307cb543a19ef5e1ccf6485
+  - enabled: 1
+    path: Assets/Scenes Provinsi/PapuaSelatan.unity
+    guid: b08fbd22456795d4ca3355e17cd023a0
+  - enabled: 1
+    path: Assets/Scenes Provinsi/PapuaPegunungan.unity
+    guid: 73745864f89df694381f51459c264d4f
+  - enabled: 1
+    path: Assets/Scenes Provinsi/PapuaBaratDaya.unity
+    guid: 9b95eca5a4cf32d44b75002f89576e84
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Papuaa.unity
+    guid: 38f208cbbaea144499a748b3807655cf
+  - enabled: 1
+    path: Assets/Scenes Provinsi/SulawesiSelatan.unity
+    guid: 1df98a1c603551943a36501af34a637d
+  - enabled: 1
+    path: Assets/Scenes Provinsi/SulawesiBarat.unity
+    guid: f26402719d5bcd04c87f0cf36ca2c29c
+  - enabled: 1
+    path: Assets/Scenes Provinsi/SulawesiTengah.unity
+    guid: e95d0cc68bfdca54a82ccdda5422cba4
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Gorontalo.unity
+    guid: 4a901d68900cdd74f973ecd2ffe1accd
+  - enabled: 1
+    path: Assets/Scenes Provinsi/SulawesiTenggara.unity
+    guid: 196a45ab70a41174cac19c20d2fdac06
+  - enabled: 1
+    path: Assets/Scenes Provinsi/SulawesiUtara.unity
+    guid: 4cbef9969f049c9469ffbc375087c508
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Bengkulu.unity
+    guid: d7864783affafca40a4ff614f94f0473
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Aceh.unity
+    guid: ad5186f11077c8b49aa81ec316e80753
+  - enabled: 1
+    path: Assets/Scenes Provinsi/SumateraUtara.unity
+    guid: 008edad1dc07f98498210456634d8b36
+  - enabled: 1
+    path: Assets/Scenes Provinsi/SumateraBarat.unity
+    guid: 5115ba5b213baa044a2bde41486365e7
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Riau.unity
+    guid: c4ea1d9137fbb4446beb73ce630a4a08
+  - enabled: 1
+    path: Assets/Scenes Provinsi/SumateraSelatan.unity
+    guid: 5b49f8faac30523458777758e69b4928
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Jambi.unity
+    guid: 833924ea755aac344ad91392b1244daf
+  - enabled: 1
+    path: Assets/Scenes Provinsi/Lampung.unity
+    guid: dfbbb98dad8ff794c884a10e83dba85b
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
